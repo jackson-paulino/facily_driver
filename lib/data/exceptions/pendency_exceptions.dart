@@ -1,0 +1,1 @@
+class PendenciesExceptions implements Exception {}

@@ -1,0 +1,1 @@
+class TruckloadExceptions implements Exception {}
